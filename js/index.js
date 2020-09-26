@@ -174,7 +174,7 @@ class Article extends Page{
       <form id="contact-form"  role="form">
           <div class="ajax-hidden">
             <h2>Contact Me</h2>
-            <p style="font-size: large;">For question regarding my work or hiring me please feel free to contact me via mail</p>
+            <p style="font-size: large;">For question regarding my work or hiring me please feel free to contact me via mail on sbawa1629@conestogac.on.ca</p>
               <div class="form-group wow fadeInUp">
                   <label class="sr-only" for="c_name">Name</label>
                   <input type="text" id="c_name" class="form-control" name="subject" placeholder="Name">
