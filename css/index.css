@@ -3,3 +3,42 @@
 .navbar-nav.navbar-right:last-child{
     margin-right: 0;
 }
+
+
+
+.navbar 
+{
+    background-color: #1abc9c; /* Green */
+    
+    font: 20px Montserrat, sans-serif;
+    margin-bottom: 0;
+    border-radius: 0;
+    border-color: #1abc9c;
+  }
+  
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+.jumbotron
+{
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+
+
+.rowonex
+{
+
+    width: 100%;
+    height: 200px;
+	border-radius:20px 20px;
+	background-position: center;
+	background-size: cover;
+	transition: all .5s;
+}
+
+.rowonex:hover,
+.rowonex:focus{
+  transform: scale(1.1);
+}
